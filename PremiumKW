@@ -1074,63 +1074,40 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 #EXTINF: -1 tvg-id="SK2.AU" tvg-logo="https://i.postimg.cc/gJ3CwZc8/coollogo-com-103482582.png" group-title="SPORTS WAK", Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtjVp9.jpg",True Premier 1 
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtjVp9.jpg",True Premier 1 
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctlf9v.jpg",True Premier 2
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctlf9v.jpg",True Premier 2
 https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtlUB9.jpg",True Premier 3
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtlUB9.jpg",True Premier 3
 https://cloudserver.server-cdn-streaming.com/live-player/16/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Cto0Gy.jpg",True Premier 4
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Cto0Gy.jpg",True Premier 4
 https://cloudserver.server-cdn-streaming.com/live-player/17/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtofCa.jpg",True Premier 5
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtofCa.jpg",True Premier 5
 https://cloudserver.server-cdn-streaming.com/live-player/18/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtoekR.jpg",True Sports HD1
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtoekR.jpg",True Sports HD1
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtD1e2.png",True Sports HD2
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtD1e2.png",True Sports HD2
 https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtAiTl.jpg",True Sports HD3
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtAiTl.jpg",True Sports HD3
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/23/Cn33EN.jpg",True Sports HD4 
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/23/Cn33EN.jpg",True Sports HD4 
 https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLOBu2.jpg",SPOTV 2 
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/10/01/CLOBu2.jpg",SPOTV 2 
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtsF9e.jpg",Fox Sports 2
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtsF9e.jpg",Fox Sports 2
 https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtuANk.jpg",BT Sport 1
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtuANk.jpg",BT Sport 1
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtJljy.jpg",Sport TV 1
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtJljy.jpg",Sport TV 1
 https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtLUh0.jpg",Sport TV 2
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtLUh0.jpg",Sport TV 2
 https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CteSkR.jpg",Sport TV 3
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CteSkR.jpg",Sport TV 3
 https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Cte31e.jpg",Sport TV 4
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Cte31e.jpg",Sport TV 4
 https://cloudserver.server-cdn-streaming.com/live-player/22/live.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CteKaN.jpg",Sport TV 5
+#EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CteKaN.jpg",Sport TV 5
 https://cloudserver.server-cdn-streaming.com/live-player/23/live.m3u8
-
-
-
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnzV2.jpg",B Sports 1 English
-http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtnQ1Z.jpg",B Sports 2 English
-http://ltvpk.ynetcdn.online:8061/BEIN_SPORTS_3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ct8OSk.jpg",B Sports Xtra
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXSv7P.jpg",B Sports 1 
-http://sos.moukrasa.xyz/live/918454578/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CXYtSb.jpg",B Sports 2 
-http://sos.moukrasa.xyz/live/69854211/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/15/CbnbUg.jpg",B Sports 3
-http://sos.moukrasa.xyz/live/645587700/index.m3u8?
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/Ctvbig.jpg",B Sports 4
-http://sos.moukrasa.xyz/live/9787488847/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvlI2.jpg",B Sports 5
-http://sos.moukrasa.xyz/live/610303030/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtvmYP.jpg",B Sports 6
-http://sos.moukrasa.xyz/live/1515000000/index.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtGf6g.jpg",B Sports 7
-http://sos.moukrasa.xyz/live/791001144/index.m3u8
 
 
 
@@ -1174,81 +1151,28 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/28/CpiZAl.jpg",Now Sports Prime 
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/29/Cv57gN.jpg",SkySports Arena 
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98787.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/29/CvcJOE.jpg",SuperSports Grandstand 
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110696.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/26/CX47yW.jpg",SkySports Premier League 
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/98775.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/19/CPfoSv.jpg",SuperSport EPL
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110698.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/28/CpAhYg.jpg",SuperSport Football 
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110700.m3u8
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://sv1.picz.in.th/images/2021/09/28/CpDaIR.jpg",SuperSport Laliga 
-http://primestreams.tv:826/live/takuachenvidia@gmail.com/wBevDzfqb5/110699.m3u8
-
-
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="WorldSports",TR SPORTS 1 HD
+#EXTINF:-1 tvg-id="bein1hd.jsc" group-title="SPORTS 2",TR SPORTS 1 HD
 http://37.221.122.86:8383/trspor.ts
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",football 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",football 1
 https://95-213-224-179.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",football 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",football 2
 https://95-213-224-179.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",football 3
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",football 3
 https://95-213-224-179.livesports24.online/football3ua.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 1
 https://95-213-224-179.livesports24.online/khlhdru.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 2
 https://95-213-224-179.livesports24.online/mpremierrus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 3
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 3
 https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 4
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 4
 https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 5
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 5
 https://95-213-224-179.livesports24.online/rumatcharena.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 6
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 6
 https://95-213-224-179.livesports24.online/migra.m3u8
-#EXTINF:-1 tvg-logo="" group-title="WorldSports",RUSIA 7
+#EXTINF:-1 tvg-logo="" group-title="SPORTS 2",RUSIA 7
 https://95-213-224-179.livesports24.online/matchplanetarus.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",BeinSport1turki
-http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Beinsport2turki
-http://stream.tvtap.live:8081/live/tr-bein2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Beinsport3turki
-http://stream.tvtap.live:8081/live/tr-bein3.stream/playlist.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS",BeinSport1fr
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS",BeinSport2Fr
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="BEIN SPORTS",BeinSport3Fr
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein1
-http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein2
-http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein3
-http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein4
-http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein5
-http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein6
-http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein7
-http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein8
-http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein9
-http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein10
-http://31.220.41.88:8081/live/bein10.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein11
-http://31.220.41.88:8081/live/bein11.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg"group-title="BEIN SPORTS",Bein12
-http://31.220.41.88:8081/live/bein12.stream/chunks.m3u8
 
 
 
@@ -1448,309 +1372,6 @@ https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
 https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 #EXTINF:-1 group-title="CH THAI2"tvg-logo="https://center.beinsport.biz//assets/images/channel_new/hd-pptv.png",PPTV HD
 https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM MASALA" tvg-logo="" group-title="Pakistan",PK: HUM MASALA
-http://stop.next-code.xyz:2052/Nador/66263/19324
-#EXTINF:-1 tvg-id="" tvg-name="PK: TV ONE" tvg-logo="" group-title="Pakistan",PK: TV ONE
-http://stop.next-code.xyz:2052/Nador/66263/19321
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMWORLD" tvg-logo="" group-title="Pakistan",PK: FILMWORLD
-http://stop.next-code.xyz:2052/Nador/66263/19323
-#EXTINF:-1 tvg-id="" tvg-name="PK: AAJ ENTERTAINMENT" tvg-logo="" group-title="Pakistan",PK: AAJ ENTERTAINMENT
-http://stop.next-code.xyz:2052/Nador/66263/19322
-#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS ENTERTAINMENT" tvg-logo="" group-title="Pakistan",PK: EXPRESS ENTERTAINMENT
-http://stop.next-code.xyz:2052/Nador/66263/19320
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO TEZZ" tvg-logo="" group-title="Pakistan",PK: GEO TEZZ
-http://stop.next-code.xyz:2052/Nador/66263/19318
-#EXTINF:-1 tvg-id="" tvg-name="PK: HUM TV HD" tvg-logo="" group-title="Pakistan",PK: HUM TV HD
-http://stop.next-code.xyz:2052/Nador/66263/19319
-#EXTINF:-1 tvg-id="" tvg-name="PK: GNN NEWS" tvg-logo="" group-title="Pakistan",PK: GNN NEWS
-http://stop.next-code.xyz:2052/Nador/66263/19317
-#EXTINF:-1 tvg-id="" tvg-name="PK: 92 NEWS" tvg-logo="" group-title="Pakistan",PK: 92 NEWS
-http://stop.next-code.xyz:2052/Nador/66263/19316
-#EXTINF:-1 tvg-id="" tvg-name="PK: SAMAA TV" tvg-logo="" group-title="Pakistan",PK: SAMAA TV
-http://stop.next-code.xyz:2052/Nador/66263/19315
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO NEWS" tvg-logo="" group-title="Pakistan",PK: GEO NEWS
-http://stop.next-code.xyz:2052/Nador/66263/19314
-#EXTINF:-1 tvg-id="" tvg-name="PK: EXPRESS NEWS" tvg-logo="" group-title="Pakistan",PK: EXPRESS NEWS
-http://stop.next-code.xyz:2052/Nador/66263/5188
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY DIGITAL" tvg-logo="" group-title="Pakistan",PK: ARY DIGITAL
-http://stop.next-code.xyz:2052/Nador/66263/5169
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY NEWS" tvg-logo="" group-title="Pakistan",PK: ARY NEWS
-http://stop.next-code.xyz:2052/Nador/66263/5168
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY ZINDAGI" tvg-logo="" group-title="Pakistan",PK: ARY ZINDAGI
-http://stop.next-code.xyz:2052/Nador/66263/5166
-#EXTINF:-1 tvg-id="" tvg-name="PK: Dawn News" tvg-logo="" group-title="Pakistan",PK: Dawn News
-http://stop.next-code.xyz:2052/Nador/66263/5183
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO Enterterment" tvg-logo="" group-title="Pakistan",PK: GEO Enterterment
-http://stop.next-code.xyz:2052/Nador/66263/1380
-#EXTINF:-1 tvg-id="" tvg-name="PK: PTV Sports" tvg-logo="" group-title="Pakistan",PK: PTV Sports
-http://stop.next-code.xyz:2052/Nador/66263/27302
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL NEWS" tvg-logo="" group-title="Pakistan",PK: BOL NEWS
-http://stop.next-code.xyz:2052/Nador/66263/38460
-#EXTINF:-1 tvg-id="" tvg-name="PK: BOL ENTERTAINMENT" tvg-logo="" group-title="Pakistan",PK: BOL ENTERTAINMENT
-http://stop.next-code.xyz:2052/Nador/66263/38461
-#EXTINF:-1 tvg-id="" tvg-name="CNA Live" tvg-logo="" group-title="Pakistan",CNA Live
-http://stop.next-code.xyz:2052/Nador/66263/62835
-#EXTINF:-1 tvg-id="" tvg-name="PK: ANIMAL PLANET" tvg-logo="" group-title="Pakistan",PK: ANIMAL PLANET
-http://stop.next-code.xyz:2052/Nador/66263/62851
-#EXTINF:-1 tvg-id="" tvg-name="PK: CARTOON NETWORK" tvg-logo="" group-title="Pakistan",PK: CARTOON NETWORK
-http://stop.next-code.xyz:2052/Nador/66263/62852
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARY MUSIK" tvg-logo="" group-title="Pakistan",PK: ARY MUSIK
-http://stop.next-code.xyz:2052/Nador/66263/62853
-#EXTINF:-1 tvg-id="" tvg-name="PK: JALWA MUSIC" tvg-logo="" group-title="Pakistan",PK: JALWA MUSIC
-http://stop.next-code.xyz:2052/Nador/66263/62854
-#EXTINF:-1 tvg-id="" tvg-name="PK: OXYGEN MUSIC" tvg-logo="" group-title="Pakistan",PK: OXYGEN MUSIC
-http://stop.next-code.xyz:2052/Nador/66263/62855
-#EXTINF:-1 tvg-id="" tvg-name="PK: 8XM MUSIC" tvg-logo="" group-title="Pakistan",PK: 8XM MUSIC
-http://stop.next-code.xyz:2052/Nador/66263/62856
-#EXTINF:-1 tvg-id="" tvg-name="PK: TEN SPORTS PK" tvg-logo="" group-title="Pakistan",PK: TEN SPORTS PK
-http://stop.next-code.xyz:2052/Nador/66263/62857
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMAZIA" tvg-logo="" group-title="Pakistan",PK: FILMAZIA
-http://stop.next-code.xyz:2052/Nador/66263/62858
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMAX" tvg-logo="" group-title="Pakistan",PK: FILMAX
-http://stop.next-code.xyz:2052/Nador/66263/62859
-#EXTINF:-1 tvg-id="" tvg-name="PK: FILMWORLD" tvg-logo="" group-title="Pakistan",PK: FILMWORLD
-http://stop.next-code.xyz:2052/Nador/66263/62860
-#EXTINF:-1 tvg-id="" tvg-name="PK: RAAVI TV" tvg-logo="" group-title="Pakistan",PK: RAAVI TV
-http://stop.next-code.xyz:2052/Nador/66263/62861
-#EXTINF:-1 tvg-id="" tvg-name="PK: ARUJ TV" tvg-logo="" group-title="Pakistan",PK: ARUJ TV
-http://stop.next-code.xyz:2052/Nador/66263/62862
-#EXTINF:-1 tvg-id="" tvg-name="PK: WASEB TV" tvg-logo="" group-title="Pakistan",PK: WASEB TV
-http://stop.next-code.xyz:2052/Nador/66263/62863
-#EXTINF:-1 tvg-id="" tvg-name="PK: KHYBER TV" tvg-logo="" group-title="Pakistan",PK: KHYBER TV
-http://stop.next-code.xyz:2052/Nador/66263/62864
-#EXTINF:-1 tvg-id="" tvg-name="PK: DISCOVER PAKISTAN" tvg-logo="" group-title="Pakistan",PK: DISCOVER PAKISTAN
-http://stop.next-code.xyz:2052/Nador/66263/62865
-#EXTINF:-1 tvg-id="" tvg-name="PPV Fight" tvg-logo="" group-title="Pakistan",PPV Fight
-http://stop.next-code.xyz:2052/Nador/66263/96893
-#EXTINF:-1 tvg-id="" tvg-name="PK: GEO SUPER" tvg-logo="" group-title="Pakistan",PK: GEO SUPER
-http://stop.next-code.xyz:2052/Nador/66263/23256
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Salam" tvg-logo="" group-title="Indian",IN: Zee Salam
-http://stop.next-code.xyz:2052/Nador/66263/5071
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ACTION" tvg-logo="" group-title="Indian",IN: ZEE ACTION
-http://stop.next-code.xyz:2052/Nador/66263/5074
-#EXTINF:-1 tvg-id="" tvg-name="IN: & Picture HD" tvg-logo="" group-title="Indian",IN: & Picture HD
-http://stop.next-code.xyz:2052/Nador/66263/1368
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Plus" tvg-logo="" group-title="Indian",IN: B4U Plus
-http://stop.next-code.xyz:2052/Nador/66263/19339
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS HD" tvg-logo="" group-title="Indian",IN: COLORS HD
-http://stop.next-code.xyz:2052/Nador/66263/19327
-#EXTINF:-1 tvg-id="" tvg-name="IN: &TV HD" tvg-logo="" group-title="Indian",IN: &TV HD
-http://stop.next-code.xyz:2052/Nador/66263/19328
-#EXTINF:-1 tvg-id="" tvg-name="IN: BOLLYWOOD CLASSIC" tvg-logo="" group-title="Indian",IN: BOLLYWOOD CLASSIC
-http://stop.next-code.xyz:2052/Nador/66263/19338
-#EXTINF:-1 tvg-id="" tvg-name="IN: HOUSEFULL ACTION" tvg-logo="" group-title="Indian",IN: HOUSEFULL ACTION
-http://stop.next-code.xyz:2052/Nador/66263/19337
-#EXTINF:-1 tvg-id="" tvg-name="IN: Rishtey Europe" tvg-logo="" group-title="Indian",IN: Rishtey Europe
-http://stop.next-code.xyz:2052/Nador/66263/2152
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Gold HD" tvg-logo="" group-title="Indian",IN: Star Gold HD
-http://stop.next-code.xyz:2052/Nador/66263/19345
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY MAX HD" tvg-logo="" group-title="Indian",IN: SONY MAX HD
-http://stop.next-code.xyz:2052/Nador/66263/19333
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Sab" tvg-logo="" group-title="Indian",IN: Sony Sab
-http://stop.next-code.xyz:2052/Nador/66263/2151
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SAB HD USA" tvg-logo="" group-title="Indian",IN: SONY SAB HD USA
-http://stop.next-code.xyz:2052/Nador/66263/19330
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TV HD" tvg-logo="" group-title="Indian",IN: SONY TV HD
-http://stop.next-code.xyz:2052/Nador/66263/19325
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT HD" tvg-logo="" group-title="Indian",IN: STAR BHARAT HD
-http://stop.next-code.xyz:2052/Nador/66263/19331
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS HD" tvg-logo="" group-title="Indian",IN: STAR PLUS HD
-http://stop.next-code.xyz:2052/Nador/66263/19326
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1 HD" tvg-logo="" group-title="Indian",IN: STAR SPORTS 1 HD
-http://stop.next-code.xyz:2052/Nador/66263/19341
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2 Select HD" tvg-logo="" group-title="Indian",IN: Star Sports 2 Select HD
-http://stop.next-code.xyz:2052/Nador/66263/3530
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS FIRST" tvg-logo="" group-title="Indian",IN: STAR SPORTS FIRST
-http://stop.next-code.xyz:2052/Nador/66263/19343
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1 Select HD" tvg-logo="" group-title="Indian",IN: Star Sports 1 Select HD
-http://stop.next-code.xyz:2052/Nador/66263/2629
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 1 HD" tvg-logo="" group-title="Indian",IN: TEN 1 HD
-http://stop.next-code.xyz:2052/Nador/66263/2378
-#EXTINF:-1 tvg-id="" tvg-name="IN: TEN 2 HD" tvg-logo="" group-title="Indian",IN: TEN 2 HD
-http://stop.next-code.xyz:2052/Nador/66263/2148
-#EXTINF:-1 tvg-id="" tvg-name="IN: WILLOW CRICKET" tvg-logo="" group-title="Indian",IN: WILLOW CRICKET
-http://stop.next-code.xyz:2052/Nador/66263/19344
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE ANMOL" tvg-logo="" group-title="Indian",IN: ZEE ANMOL
-http://stop.next-code.xyz:2052/Nador/66263/19332
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE BOLLYWOOD" tvg-logo="" group-title="Indian",IN: ZEE BOLLYWOOD
-http://stop.next-code.xyz:2052/Nador/66263/19336
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CINEMA HD" tvg-logo="" group-title="Indian",IN: ZEE CINEMA HD
-http://stop.next-code.xyz:2052/Nador/66263/19334
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Punjabi" tvg-logo="" group-title="Indian",IN: Zee Punjabi
-http://stop.next-code.xyz:2052/Nador/66263/2622
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Studio HD" tvg-logo="" group-title="Indian",IN: Zee Studio HD
-http://stop.next-code.xyz:2052/Nador/66263/2628
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE TV HD" tvg-logo="" group-title="Indian",IN: ZEE TV HD
-http://stop.next-code.xyz:2052/Nador/66263/19329
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONY SIX " tvg-logo="" group-title="Indian",IN: SONY SIX 
-http://stop.next-code.xyz:2052/Nador/66263/26578
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE YUVA MARATHI" tvg-logo="" group-title="Indian",IN: ZEE YUVA MARATHI
-http://stop.next-code.xyz:2052/Nador/66263/27024
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE MARATHI HD" tvg-logo="" group-title="Indian",IN: ZEE MARATHI HD
-http://stop.next-code.xyz:2052/Nador/66263/27025
-#EXTINF:-1 tvg-id="" tvg-name="IN: COLORS CINEPLEX " tvg-logo="" group-title="Indian",IN: COLORS CINEPLEX 
-http://stop.next-code.xyz:2052/Nador/66263/27026
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Movies" tvg-logo="" group-title="Indian",IN: B4U Movies
-http://stop.next-code.xyz:2052/Nador/66263/27027
-#EXTINF:-1 tvg-id="" tvg-name="IN: B4U Kadak" tvg-logo="" group-title="Indian",IN: B4U Kadak
-http://stop.next-code.xyz:2052/Nador/66263/27028
-#EXTINF:-1 tvg-id="" tvg-name="IN: Cinema TV" tvg-logo="" group-title="Indian",IN: Cinema TV
-http://stop.next-code.xyz:2052/Nador/66263/27029
-#EXTINF:-1 tvg-id="" tvg-name="IN: ENTER 10" tvg-logo="" group-title="Indian",IN: ENTER 10
-http://stop.next-code.xyz:2052/Nador/66263/27030
-#EXTINF:-1 tvg-id="" tvg-name="IN: MANORANJAN TV" tvg-logo="" group-title="Indian",IN: MANORANJAN TV
-http://stop.next-code.xyz:2052/Nador/66263/27031
-#EXTINF:-1 tvg-id="" tvg-name="IN: MANORANJAN MOVIES" tvg-logo="" group-title="Indian",IN: MANORANJAN MOVIES
-http://stop.next-code.xyz:2052/Nador/66263/27032
-#EXTINF:-1 tvg-id="" tvg-name="IN: MAHA MOVIES" tvg-logo="" group-title="Indian",IN: MAHA MOVIES
-http://stop.next-code.xyz:2052/Nador/66263/27033
-#EXTINF:-1 tvg-id="" tvg-name="IN: BOLLYWOOD NOW" tvg-logo="" group-title="Indian",IN: BOLLYWOOD NOW
-http://stop.next-code.xyz:2052/Nador/66263/27034
-#EXTINF:-1 tvg-id="" tvg-name="IN: BOLLYWOOD PREMIER" tvg-logo="" group-title="Indian",IN: BOLLYWOOD PREMIER
-http://stop.next-code.xyz:2052/Nador/66263/27035
-#EXTINF:-1 tvg-id="" tvg-name="IN: DILLAGI TV" tvg-logo="" group-title="Indian",IN: DILLAGI TV
-http://stop.next-code.xyz:2052/Nador/66263/27036
-#EXTINF:-1 tvg-id="" tvg-name="IN: DHAMAAL TV" tvg-logo="" group-title="Indian",IN: DHAMAAL TV
-http://stop.next-code.xyz:2052/Nador/66263/27037
-#EXTINF:-1 tvg-id="" tvg-name="IN: Jhanjar Music" tvg-logo="" group-title="Indian",IN: Jhanjar Music
-http://stop.next-code.xyz:2052/Nador/66263/27038
-#EXTINF:-1 tvg-id="" tvg-name="IN: DIL SE" tvg-logo="" group-title="Indian",IN: DIL SE
-http://stop.next-code.xyz:2052/Nador/66263/27039
-#EXTINF:-1 tvg-id="" tvg-name="IN: PITAARA" tvg-logo="" group-title="Indian",IN: PITAARA
-http://stop.next-code.xyz:2052/Nador/66263/27040
-#EXTINF:-1 tvg-id="" tvg-name="IN: LIVING FOODZ" tvg-logo="" group-title="Indian",IN: LIVING FOODZ
-http://stop.next-code.xyz:2052/Nador/66263/27041
-#EXTINF:-1 tvg-id="" tvg-name="IN: FOOD FOOD" tvg-logo="" group-title="Indian",IN: FOOD FOOD
-http://stop.next-code.xyz:2052/Nador/66263/27042
-#EXTINF:-1 tvg-id="" tvg-name="IN: DSPORTS 1" tvg-logo="" group-title="Indian",IN: DSPORTS 1
-http://stop.next-code.xyz:2052/Nador/66263/27043
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD SPORTS" tvg-logo="" group-title="Indian",IN: DD SPORTS
-http://stop.next-code.xyz:2052/Nador/66263/27045
-#EXTINF:-1 tvg-id="" tvg-name="IN: Romedy Now" tvg-logo="" group-title="Indian",IN: Romedy Now
-http://stop.next-code.xyz:2052/Nador/66263/27046
-#EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Indian",IN: Movies Now
-http://stop.next-code.xyz:2052/Nador/66263/27047
-#EXTINF:-1 tvg-id="" tvg-name="IN: MNX" tvg-logo="" group-title="Indian",IN: MNX
-http://stop.next-code.xyz:2052/Nador/66263/27048
-#EXTINF:-1 tvg-id="" tvg-name="IN: &PRIVE" tvg-logo="" group-title="Indian",IN: &PRIVE
-http://stop.next-code.xyz:2052/Nador/66263/27049
-#EXTINF:-1 tvg-id="" tvg-name="IN: &FLIX" tvg-logo="" group-title="Indian",IN: &FLIX
-http://stop.next-code.xyz:2052/Nador/66263/27050
-#EXTINF:-1 tvg-id="" tvg-name="IN: ABP NEWS" tvg-logo="" group-title="Indian",IN: ABP NEWS
-http://stop.next-code.xyz:2052/Nador/66263/27051
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE NEWS" tvg-logo="" group-title="Indian",IN: ZEE NEWS
-http://stop.next-code.xyz:2052/Nador/66263/27052
-#EXTINF:-1 tvg-id="" tvg-name="IN: REPUBLIC BHARAT NEWS" tvg-logo="" group-title="Indian",IN: REPUBLIC BHARAT NEWS
-http://stop.next-code.xyz:2052/Nador/66263/27053
-#EXTINF:-1 tvg-id="" tvg-name="IN: AAJ TAK NEWS" tvg-logo="" group-title="Indian",IN: AAJ TAK NEWS
-http://stop.next-code.xyz:2052/Nador/66263/27054
-#EXTINF:-1 tvg-id="" tvg-name="IN: NEWS 18 INDIA" tvg-logo="" group-title="Indian",IN: NEWS 18 INDIA
-http://stop.next-code.xyz:2052/Nador/66263/27055
-#EXTINF:-1 tvg-id="" tvg-name="IN: NDTV INDIA" tvg-logo="" group-title="Indian",IN: NDTV INDIA
-http://stop.next-code.xyz:2052/Nador/66263/27056
-#EXTINF:-1 tvg-id="" tvg-name="IN: INDIA TV NEWS" tvg-logo="" group-title="Indian",IN: INDIA TV NEWS
-http://stop.next-code.xyz:2052/Nador/66263/27057
-#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Movie Classics" tvg-logo="" group-title="Indian",IN: Tamil Movie Classics
-http://stop.next-code.xyz:2052/Nador/66263/27464
-#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Comedy" tvg-logo="" group-title="Indian",IN: Telugu Comedy
-http://stop.next-code.xyz:2052/Nador/66263/27465
-#EXTINF:-1 tvg-id="" tvg-name="IN: Telugu Classics" tvg-logo="" group-title="Indian",IN: Telugu Classics
-http://stop.next-code.xyz:2052/Nador/66263/27466
-#EXTINF:-1 tvg-id="" tvg-name="IN: Canada EETTV" tvg-logo="" group-title="Indian",IN: Canada EETTV
-http://stop.next-code.xyz:2052/Nador/66263/27467
-#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Vision TV" tvg-logo="" group-title="Indian",IN: Tamil Vision TV
-http://stop.next-code.xyz:2052/Nador/66263/27468
-#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Vision TV HD" tvg-logo="" group-title="Indian",IN: Tamil Vision TV HD
-http://stop.next-code.xyz:2052/Nador/66263/27469
-#EXTINF:-1 tvg-id="" tvg-name="IN: Tamil Business TV" tvg-logo="" group-title="Indian",IN: Tamil Business TV
-http://stop.next-code.xyz:2052/Nador/66263/27470
-#EXTINF:-1 tvg-id="" tvg-name="IN: Times Now HD" tvg-logo="" group-title="Indian",IN: Times Now HD
-http://stop.next-code.xyz:2052/Nador/66263/27471
-#EXTINF:-1 tvg-id="" tvg-name="IN: Living India News" tvg-logo="" group-title="Indian",IN: Living India News
-http://stop.next-code.xyz:2052/Nador/66263/27473
-#EXTINF:-1 tvg-id="" tvg-name="IN: Hamsa TV Kannada" tvg-logo="" group-title="Indian",IN: Hamsa TV Kannada
-http://stop.next-code.xyz:2052/Nador/66263/27474
-#EXTINF:-1 tvg-id="" tvg-name="IN: Classics Marathi" tvg-logo="" group-title="Indian",IN: Classics Marathi
-http://stop.next-code.xyz:2052/Nador/66263/27475
-#EXTINF:-1 tvg-id="" tvg-name="IN: Classics Telugu" tvg-logo="" group-title="Indian",IN: Classics Telugu
-http://stop.next-code.xyz:2052/Nador/66263/27476
-#EXTINF:-1 tvg-id="" tvg-name="IN: Comedy Telugu" tvg-logo="" group-title="Indian",IN: Comedy Telugu
-http://stop.next-code.xyz:2052/Nador/66263/27477
-#EXTINF:-1 tvg-id="" tvg-name="IN: D Sport" tvg-logo="" group-title="Indian",IN: D Sport
-http://stop.next-code.xyz:2052/Nador/66263/27478
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD Malayalam" tvg-logo="" group-title="Indian",IN: DD Malayalam
-http://stop.next-code.xyz:2052/Nador/66263/27479
-#EXTINF:-1 tvg-id="" tvg-name="IN: DD National" tvg-logo="" group-title="Indian",IN: DD National
-http://stop.next-code.xyz:2052/Nador/66263/27480
-#EXTINF:-1 tvg-id="" tvg-name="IN: Gabruu TV" tvg-logo="" group-title="Indian",IN: Gabruu TV
-http://stop.next-code.xyz:2052/Nador/66263/27483
-#EXTINF:-1 tvg-id="" tvg-name="IN: Gaunda Punjab TV" tvg-logo="" group-title="Indian",IN: Gaunda Punjab TV
-http://stop.next-code.xyz:2052/Nador/66263/27484
-#EXTINF:-1 tvg-id="" tvg-name="IN: Hamdard TV" tvg-logo="" group-title="Indian",IN: Hamdard TV
-http://stop.next-code.xyz:2052/Nador/66263/27485
-#EXTINF:-1 tvg-id="" tvg-name="IN: Harvest TV" tvg-logo="" group-title="Indian",IN: Harvest TV
-http://stop.next-code.xyz:2052/Nador/66263/27486
-#EXTINF:-1 tvg-id="" tvg-name="IN:  JattTV" tvg-logo="" group-title="Indian",IN:  JattTV
-http://stop.next-code.xyz:2052/Nador/66263/27487
-#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali" tvg-logo="" group-title="Indian",IN: Kairali
-http://stop.next-code.xyz:2052/Nador/66263/27488
-#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali News" tvg-logo="" group-title="Indian",IN: Kairali News
-http://stop.next-code.xyz:2052/Nador/66263/27489
-#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali TV" tvg-logo="" group-title="Indian",IN: Kairali TV
-http://stop.next-code.xyz:2052/Nador/66263/27490
-#EXTINF:-1 tvg-id="" tvg-name="IN: Kairali We" tvg-logo="" group-title="Indian",IN: Kairali We
-http://stop.next-code.xyz:2052/Nador/66263/27491
-#EXTINF:-1 tvg-id="" tvg-name="IN: M4 Malayalam TV" tvg-logo="" group-title="Indian",IN: M4 Malayalam TV
-http://stop.next-code.xyz:2052/Nador/66263/27492
-#EXTINF:-1 tvg-id="" tvg-name="IN: Punjabi Tadka" tvg-logo="" group-title="Indian",IN: Punjabi Tadka
-http://stop.next-code.xyz:2052/Nador/66263/27493
-#EXTINF:-1 tvg-id="" tvg-name="IN: Punjabi TV" tvg-logo="" group-title="Indian",IN: Punjabi TV
-http://stop.next-code.xyz:2052/Nador/66263/27494
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sardari TV" tvg-logo="" group-title="Indian",IN: Sardari TV
-http://stop.next-code.xyz:2052/Nador/66263/27495
-#EXTINF:-1 tvg-id="" tvg-name="IN: Shan Punjabi" tvg-logo="" group-title="Indian",IN: Shan Punjabi
-http://stop.next-code.xyz:2052/Nador/66263/27496
-#EXTINF:-1 tvg-id="" tvg-name="IN: Shubhsandesh" tvg-logo="" group-title="Indian",IN: Shubhsandesh
-http://stop.next-code.xyz:2052/Nador/66263/27497
-#EXTINF:-1 tvg-id="" tvg-name="IN: Sikh Channel" tvg-logo="" group-title="Indian",IN: Sikh Channel
-http://stop.next-code.xyz:2052/Nador/66263/27498
-#EXTINF:-1 tvg-id="" tvg-name="IN: STS Tamil" tvg-logo="" group-title="Indian",IN: STS Tamil
-http://stop.next-code.xyz:2052/Nador/66263/27499
-#EXTINF:-1 tvg-id="" tvg-name="IN: Zee Tamil" tvg-logo="" group-title="Indian",IN: Zee Tamil
-http://stop.next-code.xyz:2052/Nador/66263/29371
-#EXTINF:-1 tvg-id="" tvg-name="IND: STAR SPORTS 2 HD " tvg-logo="" group-title="Indian",IND: STAR SPORTS 2 HD 
-http://stop.next-code.xyz:2052/Nador/66263/62836
-#EXTINF:-1 tvg-id="" tvg-name="IND: HISTORY" tvg-logo="" group-title="Indian",IND: HISTORY
-http://stop.next-code.xyz:2052/Nador/66263/62837
-#EXTINF:-1 tvg-id="" tvg-name="IND: NAT GEO HD" tvg-logo="" group-title="Indian",IND: NAT GEO HD
-http://stop.next-code.xyz:2052/Nador/66263/62838
-#EXTINF:-1 tvg-id="" tvg-name="IND: NAT GEO WILD" tvg-logo="" group-title="Indian",IND: NAT GEO WILD
-http://stop.next-code.xyz:2052/Nador/66263/62839
-#EXTINF:-1 tvg-id="" tvg-name="IND: ANIMAL PLANET HINDI" tvg-logo="" group-title="Indian",IND: ANIMAL PLANET HINDI
-http://stop.next-code.xyz:2052/Nador/66263/62840
-#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery HINDI" tvg-logo="" group-title="Indian",IND: Discovery HINDI
-http://stop.next-code.xyz:2052/Nador/66263/62841
-#EXTINF:-1 tvg-id="" tvg-name="IND: Discovery Science HINDI" tvg-logo="" group-title="Indian",IND: Discovery Science HINDI
-http://stop.next-code.xyz:2052/Nador/66263/62842
-#EXTINF:-1 tvg-id="" tvg-name="IND: LIVING FOODZ" tvg-logo="" group-title="Indian",IND: LIVING FOODZ
-http://stop.next-code.xyz:2052/Nador/66263/62843
-#EXTINF:-1 tvg-id="" tvg-name="IND: CARTOON NETWORK" tvg-logo="" group-title="Indian",IND: CARTOON NETWORK
-http://stop.next-code.xyz:2052/Nador/66263/62844
-#EXTINF:-1 tvg-id="" tvg-name="IND: DICOVERY KIDS HINDI" tvg-logo="" group-title="Indian",IND: DICOVERY KIDS HINDI
-http://stop.next-code.xyz:2052/Nador/66263/62845
-#EXTINF:-1 tvg-id="" tvg-name="IND: Mastiii" tvg-logo="" group-title="Indian",IND: Mastiii
-http://stop.next-code.xyz:2052/Nador/66263/62846
-#EXTINF:-1 tvg-id="" tvg-name="IND: 9X JALWA" tvg-logo="" group-title="Indian",IND: 9X JALWA
-http://stop.next-code.xyz:2052/Nador/66263/62847
-#EXTINF:-1 tvg-id="" tvg-name="IND: B4U Music" tvg-logo="" group-title="Indian",IND: B4U Music
-http://stop.next-code.xyz:2052/Nador/66263/62848
-#EXTINF:-1 tvg-id="" tvg-name="IND: ZING" tvg-logo="" group-title="Indian",IND: ZING
-http://stop.next-code.xyz:2052/Nador/66263/62849
-
 
 
 
