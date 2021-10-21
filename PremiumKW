@@ -1092,6 +1092,16 @@ https://smart-tv.livedoomovie.com:4431/02_sport5_480p/chunklist.m3u8
 https://smart-tv.livedoomovie.com:4431/02_sport6_480p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", True sport7
 https://smart-tv.livedoomovie.com:4431/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 1
+https://smart-tv.livedoomovies.com:4431/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 2
+https://smart-tv.livedoomovies.com:4431/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 3
+https://smart-tv.livedoomovies.com:4431/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 4
+https://smart-tv.livedoomovies.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 5
+https://smart-tv.livedoomovies.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
 
 
