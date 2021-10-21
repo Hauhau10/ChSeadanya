@@ -1512,104 +1512,97 @@ http://a3.smashmalta.com:82/live/smash/smash/31.ts
 
 
 
-
-
- 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Sexy Kpop TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Sexy Kpop TV
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Spirit TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Spirit TV
 http://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Music TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Music TV
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,VEVO HipHop 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,VEVO HipHop 
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV Live
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV Live
 http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Muzzik
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Muzzik
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Country Network 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Country Network 
 https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Mnet 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Mnet 
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Qello Concerts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Qello Concerts
 https://stingray-qelloconcerts-2-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Greatest Hits 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Greatest Hits 
 https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Rock
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Rock
 https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Hip-Hop/R&B
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Hip-Hop/R&B
 https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Pop Adult 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Pop Adult 
 https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Classic Rock
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Classic Rock
 https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray Soul
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray Soul
 https://stirr.ott-channels.stingray.com/134/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Stingray ‘80
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Stingray ‘80
 https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,True Music 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,True Music 
 https://tv.trueid.net/embed/true-music-channel-hd?autoplay=yes&nopageview=yes
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Steelbird Music
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Steelbird Music
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
  
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV BIGGEST POP
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV BIGGEST POP
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV BIGGEST POP 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV BIGGEST POP 2
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS05/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV BLOCK PARTY
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV BLOCK PARTY
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV YO!
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV YO!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MTV YO! 2
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MTV YO! 2
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master.m3u8
  
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Country Music 4U
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Country Music 4U
 http://59d39900ebfb8.streamlock.net:1935/countrymusic4u/countrymusic4u/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Euro Indie Music
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Euro Indie Music
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,Life TV Europe
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,Life TV Europe
 http://lifetv.bitflip.ee/live/stream1.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK AMVA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK AMVA
 http://muzzik-live.morescreens.com/mts-8/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK CLUB
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK CLUB
 http://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK HIP-HOP
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK HIP-HOP
 http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK JEKA
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK JEKA
 http://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK MEDITERANEO
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK MEDITERANEO
 http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK OKK
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK OKK
 http://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK REPLAY
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK REPLAY
 http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK ROCK
-http://muzzik-live.morescreens.com/mts-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL"/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK SACULATAC
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK ROCK
+http://muzzik-live.morescreens.com/mts-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL"/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK SACULATAC
 http://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK SENSE
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK SENSE
 http://muzzik-live.morescreens.com/mts-7/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL" ,MUZZIK WORLD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL" ,MUZZIK WORLD
 http://muzzik-live.morescreens.com/mts-5/playlist.m3u8
- 
- 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL",MOLATV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL",MOLATV
 http://ventdelnord.tv:8080/mola/directe.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL", ТВ HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL", ТВ HD
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL",М2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL",М2
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FR9p3BMB/OEX.jpg" group-title="MUSIC CHANNEL", FM HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="MUSIC CHANNEL", FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 
 
-
-
-
+ 
 #EXTINF:-1 tvg-id="TH BINH DUONG 1"group-title="VIETNAM" tvg-logo="https://i.ibb.co/VSJQW77/BTV1-BEARTV.png",BTV 1
 https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.ibb.co/zRk5HL4/BTV2-BEARTV.png",BTV 2
