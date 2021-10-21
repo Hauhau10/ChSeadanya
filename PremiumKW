@@ -566,6 +566,105 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Goshop2/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="TV 1" tvg-logo="http://tvmalaysia.cc:80/images/ccfa5d3bbed199dbac92b5beb81b98b7.png" group-title="LIVE | MEDIA PRIMA",TV 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7177
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="TV 2" tvg-logo="http://tvmalaysia.cc:80/images/884a3720c93a65943ca3d37aea5cd686.png" group-title="LIVE | MEDIA PRIMA",TV 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7178
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3" tvg-logo="http://tvmalaysia.cc:80/images/d2e7bd5a77dd8889b8723fb17c2e8bc7.png" group-title="LIVE | MEDIA PRIMA",TV 3
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7266
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="TV 3 HD" tvg-logo="http://tvmalaysia.cc:80/images/87a07a960f50ae26eaa74f96bfe1628d.png" group-title="LIVE | MEDIA PRIMA",TV 3 HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8750
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="TV 9" tvg-logo="http://tvmalaysia.cc:80/images/001d2025b7bb5a0d0f180adff62ec4b7.png" group-title="LIVE | MEDIA PRIMA",TV 9
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7185
+#EXTINF:-1 tvg-id="" tvg-name="RTM Sports" tvg-logo="http://tvmalaysia.cc:80/images/8ea5fad488df48902e34c566ac1fc8ec.png" group-title="LIVE | MEDIA PRIMA",RTM Sports
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7186
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="TV IKIM" tvg-logo="http://tvmalaysia.cc:80/images/31a651c00450427d27fca4ef7c465b89.jpg" group-title="LIVE | MEDIA PRIMA",TV IKIM
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7192
+#EXTINF:-1 tvg-id="beritartm.my" tvg-name="Berita RTM" tvg-logo="http://tvmalaysia.cc:80/images/47e157d2927a350f7881bfe6a377da74.jpg" group-title="LIVE | MEDIA PRIMA",Berita RTM
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7191
+#EXTINF:-1 tvg-id="bernamatv.my" tvg-name="BERNAMA" tvg-logo="http://tvmalaysia.cc:80/images/34b4aab4d257e7d335f410bf3decafe2.png" group-title="LIVE | MEDIA PRIMA",BERNAMA
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7190
+#EXTINF:-1 tvg-id="ID: !NSERT" tvg-name="RTB MALAYSIA" tvg-logo="https://i.postimg.cc/wjjd9YH7/RTB-Sukmaindera.png" group-title="LIVE | MEDIA PRIMA",RTB MALAYSIA
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7188
+
+
+
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/566202861e30d86ca64eca4e012847dc.png" group-title="LIVE | ASTRO",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6730
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/6d5b399b8fa106f2d771eb1701e4c9cb.png" group-title="LIVE | ASTRO",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6727
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5a747afe7e6d8f0963590d0c63ae9a5c.png" group-title="LIVE | ASTRO",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6740
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/44f283fece8e89c263b9d1aba29f3d8c.png" group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7267
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/7b9fdf9cec940d2163e49a0773bf32dc.png" group-title="LIVE | ASTRO",Astro Boo
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8872
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/d80a9589528fe5f41fba95bd9b107e72.png" group-title="LIVE | ASTRO",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6724
+#EXTINF:-1 tvg-id="awesometv.my" tvg-name="Awesome TV" tvg-logo="http://tvmalaysia.cc:80/images/26eb97872079a0801307bed836a5aeea.png" group-title="LIVE | ASTRO",Awesome TV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/9016
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/1025207519df6b585f285d5324f5e5c1.png" group-title="LIVE | ASTRO",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6725
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/0b67d68665c92067221b479621db7952.png" group-title="LIVE | ASTRO",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6713
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/4408bc4a7b2f8ad6317ce413de65d2c8.png" group-title="LIVE | ASTRO",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6729
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/4bfd1cf8ffae3783bc756c9aca65d192.png" group-title="LIVE | ASTRO",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6714
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="LIVE | ASTRO",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6715
+
+
+#EXTINF:-1 tvg-id="cinemax.id" tvg-name="Cinemax FHD" tvg-logo="http://tvmalaysia.cc:80/images/c4841a5b8d0a68f319bd110a92816159.png" group-title="LIVE | MOVIE (subtitle)",Cinemax FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7062
+#EXTINF:-1 tvg-id="hbohd.id" tvg-name="HBO FHD" tvg-logo="http://tvmalaysia.cc:80/images/39dc79fabafadfb40463dd7ede3845e1.jpg" group-title="LIVE | MOVIE (subtitle)",HBO FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7067
+#EXTINF:-1 tvg-id="hbohitshd.id" tvg-name="HBO Hits FHD" tvg-logo="http://tvmalaysia.cc:80/images/f5a402f969d6cbf259b9523e35427024.png" group-title="LIVE | MOVIE (subtitle)",HBO Hits FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7068
+#EXTINF:-1 tvg-id="hbosignaturehd.id" tvg-name="HBO Signature FHD" tvg-logo="http://tvmalaysia.cc:80/images/8877fb6ba2801969210b41d20f8439ef.png" group-title="LIVE | MOVIE (subtitle)",HBO Signature FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7069
+#EXTINF:-1 tvg-id="hbofamilyhd.id" tvg-name="HBO Family FHD" tvg-logo="http://tvmalaysia.cc:80/images/36e39cc071447ddbf7abf40add2dd3b8.png" group-title="LIVE | MOVIE (subtitle)",HBO Family FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7070
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="Hits Movies" tvg-logo="http://tvmalaysia.cc:80/images/c55c0ef62eadb4283880cb9b90eb16e0.png" group-title="LIVE | MOVIE (subtitle)",Hits Movies
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7066
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="http://tvmalaysia.cc:80/images/30b3db0865e095679afe6d133e395059.jpg" group-title="LIVE | MOVIE (subtitle)",Red By HBO HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7071
+#EXTINF:-1 tvg-id="warnertv.id" tvg-name="Warner TV HD" tvg-logo="http://tvmalaysia.cc:80/images/8195cade8b105a8fd74f7dd2821d749b.png" group-title="LIVE | MOVIE (subtitle)",Warner TV HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7072
+#EXTINF:-1 tvg-id="tvnmovies.id" tvg-name="tVN movies HD" tvg-logo="http://tvmalaysia.cc:80/images/9c1fc3e276c62f1d6a63d517f91316aa.png" group-title="LIVE | MOVIE (subtitle)",tVN movies HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7074
+#EXTINF:-1 tvg-id="nationalgeographicchannel.id" tvg-name="National Geographic HD" tvg-logo="http://tvmalaysia.cc:80/images/edf7b3059b4da12abbe837d6a3295bcd.png" group-title="LIVE | DOCUMENTARY (subtitle)",National Geographic HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7075
+#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-name="Nat Geo Wild HD" tvg-logo="http://tvmalaysia.cc:80/images/974fd3251e5b8259b967eacd5d21f59d.png" group-title="LIVE | DOCUMENTARY (subtitle)",Nat Geo Wild HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7081
+#EXTINF:-1 tvg-id="nationalgeographicpeople.id" tvg-name="Nat Geo People HD" tvg-logo="http://tvmalaysia.cc:80/images/84314082bdc10a95365185a7f59d41bd.png" group-title="LIVE | DOCUMENTARY (subtitle)",Nat Geo People HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7080
+#EXTINF:-1 tvg-id="history.id" tvg-name="History FHD" tvg-logo="http://tvmalaysia.cc:80/images/dd7b010687cfcea60ac06fb8cca52b58.png" group-title="LIVE | DOCUMENTARY (subtitle)",History FHD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7079
+#EXTINF:-1 tvg-id="discoverychannel.id" tvg-name="Discovery Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/7ed93200cf21a116c4442e21c7a02077.png" group-title="LIVE | DOCUMENTARY (subtitle)",Discovery Channel HD
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7078
+#EXTINF:-1 tvg-id="animalplanet.id" tvg-name="Animal Planet" tvg-logo="http://tvmalaysia.cc:80/images/04e03f1a47aee7d8f176cab55b81a9c9.png" group-title="LIVE | DOCUMENTARY (subtitle)",Animal Planet
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7077
+#EXTINF:-1 tvg-id="hgtv.id" tvg-name="HGTV" tvg-logo="http://tvmalaysia.cc:80/images/4192dec476abaf95ac12a1c7bf4fac8a.png" group-title="LIVE | DOCUMENTARY (subtitle)",HGTV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7076
+#EXTINF:-1 tvg-id="ID: CINEMA WORLD HD" tvg-name="Cinema World" tvg-logo="http://tvmalaysia.cc:80/images/3334f26adcff7a4fa6270dad0e092123.png" group-title="LIVE | MOVIE (subtitle)",Cinema World
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7219
+#EXTINF:-1 tvg-id="thrill.id" tvg-name="Thrill" tvg-logo="http://tvmalaysia.cc:80/images/45668db83a545b41934b1bebc992f56b.png" group-title="LIVE | MOVIE (subtitle)",Thrill
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7220
+#EXTINF:-1 tvg-id="axnhd.id" tvg-name="AXN" tvg-logo="http://tvmalaysia.cc:80/images/64c7ada3247a508ceff64537eb31a5c4.png" group-title="LIVE | MOVIE (subtitle)",AXN
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7223
+#EXTINF:-1 tvg-id="kix.id" tvg-name="KiX" tvg-logo="http://tvmalaysia.cc:80/images/2137a2ac79600bd512bbe7f6c9010dd4.png" group-title="LIVE | MOVIE (subtitle)",KiX
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7229
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="Celestial Classic Movies." tvg-logo="http://tvmalaysia.cc:80/images/6ed0057ffb7e6ee1f54c71b54a3fc8d1.png" group-title="LIVE | MOVIE (subtitle)",Celestial Classic Movies.
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7222
+#EXTINF:-1 tvg-id="bbcearth.id" tvg-name="BBC Earth" tvg-logo="http://tvmalaysia.cc:80/images/acbbf3987a968fe6810de12ea52174d6.png" group-title="LIVE | DOCUMENTARY (subtitle)",BBC Earth
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7233
+#EXTINF:-1 tvg-id="celestialmovies.id" tvg-name="Celestial Movies" tvg-logo="http://tvmalaysia.cc:80/images/6c3c862edbc0724bcd330e81fdb92237.png" group-title="LIVE | MOVIE (subtitle)",Celestial Movies
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7235
+
+
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="Cartoon", Aniplus Indonesia
 http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="Cartoon", Biznet Kids
@@ -659,6 +758,108 @@ http://iptv.tvmalaysia.cc:80/penang175/penang175/6849
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6821
 #EXTINF:-1 tvg-id="MY: GOLF CHANNEL HD" tvg-name="Golf Channel HD" tvg-logo="http://tvmalaysia.cc:80/images/1eb1cee8b5e1c96e92721e3ca5ab59d5.jpg" group-title="SPORT PENANG",Golf Channel HD
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6796
+#EXTINF:-1 tvg-id="" tvg-name="TSN 1" tvg-logo="" group-title="SPORT PENANG",TSN 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8923
+#EXTINF:-1 tvg-id="" tvg-name="TSN 2" tvg-logo="" group-title="SPORT PENANG",TSN 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8924
+#EXTINF:-1 tvg-id="" tvg-name="TSN 4" tvg-logo="http://tvmalaysia.cc:80/images/bffcd12bcf6dbb007857e38fc84f6954.png" group-title="SPORT PENANG",TSN 4
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8926
+#EXTINF:-1 tvg-id="" tvg-name="TSN 3" tvg-logo="http://tvmalaysia.cc:80/images/ce83c9dafcbc830749282d5524acfff0.png" group-title="SPORT PENANG",TSN 3
+http://iptv.tvmalaysia.cc:80/penang174/penang174/8925
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Grandstand" tvg-logo="http://tvmalaysia.cc:80/images/00a1963343aee029f0681c170638ecef.png" group-title="SPORT PENANG",DSTV: SuperSport Grandstand
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6572
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport PSL" tvg-logo="http://tvmalaysia.cc:80/images/eba84552ef0a472f1627f2e1dbf6c9cd.png" group-title="SPORT PENANG",DSTV: SuperSport PSL
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6573
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Premier League" tvg-logo="http://tvmalaysia.cc:80/images/ebf60d1fcc0262145640d812f1bed395.png" group-title="SPORT PENANG",DSTV: SuperSport Premier League
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6574
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport La Liga" tvg-logo="http://tvmalaysia.cc:80/images/b674bea2086e1a86466b75fb7fcae449.png" group-title="SPORT PENANG",DSTV: SuperSport La Liga
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6575
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Football" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SPORT PENANG",DSTV: SuperSport Football
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6576
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 1" tvg-logo="http://tvmalaysia.cc:80/images/da567c37e0fb29691cca22df173b38a1.png" group-title="SPORT PENANG",DSTV: SuperSport Variety 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6577
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 2" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="SPORT PENANG",DSTV: SuperSport Variety 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6578
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 3" tvg-logo="http://tvmalaysia.cc:80/images/20c1a787710e943c785d7adc61e25862.png" group-title="SPORT PENANG",DSTV: SuperSport Variety 3
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6579
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Variety 4" tvg-logo="http://tvmalaysia.cc:80/images/46444ad845a9c8218b1b89bdacb94db5.png" group-title="SPORT PENANG",DSTV: SuperSport Variety 4
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6580
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Cricket" tvg-logo="http://tvmalaysia.cc:80/images/87f9188df2215a476290fa0e98b0e751.png" group-title="SPORT PENANG",DSTV: SuperSport Cricket
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6583
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: Supersport Blitz" tvg-logo="http://tvmalaysia.cc:80/images/8f71d3b3bffb6d36ceb62f00466400fe.png" group-title="SPORT PENANG",DSTV: Supersport Blitz
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6584
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport MáXimo" tvg-logo="http://tvmalaysia.cc:80/images/019630abd24d8e8864be46b4b6958469.png" group-title="SPORT PENANG",DSTV: SuperSport MáXimo
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6585
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Rugby" tvg-logo="http://tvmalaysia.cc:80/images/db23cec4763902ab6e0a85f67a85ec85.png" group-title="SPORT PENANG",DSTV: SuperSport Rugby
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6582
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Action" tvg-logo="http://tvmalaysia.cc:80/images/d00cd45de85ca6b516ec4eabc6dee644.png" group-title="SPORT PENANG",DSTV: SuperSport Action
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6581
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Motorsport" tvg-logo="http://tvmalaysia.cc:80/images/37f395b028a84d01a369dcf992acf533.png" group-title="SPORT PENANG",DSTV: SuperSport Motorsport
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7142
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Tennis" tvg-logo="https://i.postimg.cc/prhfQQbf/1613351683433.png" group-title="SPORT PENANG",DSTV: SuperSport Tennis
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7143
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport WWE" tvg-logo="https://i.postimg.cc/x1RzzpNr/1613350615698.png" group-title="SPORT PENANG",DSTV: SuperSport WWE
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7144
+#EXTINF:-1 tvg-id="" tvg-name="DSTV: SuperSport Golf" tvg-logo="https://i.postimg.cc/2jM3LRHL/1613350336105.png" group-title="SPORT PENANG",DSTV: SuperSport Golf
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7145
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD1 ARABIC" tvg-name="BeIN Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/06d5976044ac1e15c86715663c3757f0.png" group-title="SPORT PENANG",BeIN Sport 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6597
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD2 ARABIC" tvg-name="BeIN Sport 2" tvg-logo="https://i.postimg.cc/wxh6K4F8/1606697373987.png" group-title="SPORT PENANG",BeIN Sport 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6598
+#EXTINF:-1 tvg-id="SA: BEIN SPORTS HD13 ARABIC" tvg-name="BeIN Sport 13" tvg-logo="https://i.postimg.cc/cHkkPSjM/1606697595212.png" group-title="SPORT PENANG",BeIN Sport 13
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6609
+#EXTINF:-1 tvg-id="" tvg-name="=== BT SPORT ===" tvg-logo="" group-title="SPORT PENANG",=== BT SPORT ===
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7218
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="BT Sport 1" tvg-logo="http://tvmalaysia.cc:80/images/7379a7cb006d37f758205bf8dc829abd.jpg" group-title="SPORT PENANG",BT Sport 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6610
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="BT Sport 2" tvg-logo="http://tvmalaysia.cc:80/images/dad4a4674cfe73b1c89fc4b407b42a39.jpg" group-title="SPORT PENANG",BT Sport 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6611
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="BT Sport 3" tvg-logo="http://tvmalaysia.cc:80/images/68bf1684f7f44c02fc3d3a3be13b510f.jpg" group-title="SPORT PENANG",BT Sport 3
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6612
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport ESPN" tvg-logo="http://tvmalaysia.cc:80/images/38d170f4abf9bf163ba3ac527b37ae72.jpg" group-title="SPORT PENANG",BT Sport ESPN
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6613
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 1" tvg-logo="https://i.postimg.cc/SN2mJK5v/a95.png" group-title="SPORT PENANG",UK: Premier Sports 1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7112
+#EXTINF:-1 tvg-id="" tvg-name="UK: Premier Sports 2" tvg-logo="https://i.postimg.cc/J7yhBKHx/a1442.png" group-title="SPORT PENANG",UK: Premier Sports 2
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7113
+#EXTINF:-1 tvg-id="" tvg-name="=== SKY SPORTS ===" tvg-logo="" group-title="SPORT PENANG",=== SKY SPORTS ===
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7217
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports News" tvg-logo="http://tvmalaysia.cc:80/images/5e99aed2ec2d9b812674d012bb467ad8.jpg" group-title="SPORT PENANG",UK: Sky Sports News
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6614
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Arena" tvg-logo="http://tvmalaysia.cc:80/images/62a88170b4d23cef2f5dcab8c83c882a.jpg" group-title="SPORT PENANG",UK: Sky Sports Arena
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6615
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports F1" tvg-logo="http://tvmalaysia.cc:80/images/2f4e8a56c74335dad8c11c742243ea8e.jpg" group-title="SPORT PENANG",UK: Sky Sports F1
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6617
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: Sky Sports Golf" tvg-logo="http://tvmalaysia.cc:80/images/48edb52948eec885dc7fcb3aa0115781.png" group-title="SPORT PENANG",UK: Sky Sports Golf
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6618
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football" tvg-logo="http://tvmalaysia.cc:80/images/5018ec7514f120bfba08d989ccbc9b65.jpg" group-title="SPORT PENANG",UK: Sky Sports Football
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6620
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Premier League" tvg-logo="https://i.postimg.cc/kGr6Yktn/IMG-20210105-105040.jpg" group-title="SPORT PENANG",UK: Sky Sports Premier League
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6621
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: Sky Sports Cricket" tvg-logo="http://tvmalaysia.cc:80/images/c80ade5bf94d0648997febfd77daad04.png" group-title="SPORT PENANG",UK: Sky Sports Cricket
+http://iptv.tvmalaysia.cc:80/penang174/penang174/6619
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Racing" tvg-logo="https://i.postimg.cc/CKyND6cV/IMG-20210105-104354.jpg" group-title="SPORT PENANG",UK: Sky Sports Racing
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7114
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Main Event" tvg-logo="https://i.postimg.cc/mZF73SFL/IMG-20210105-104902.jpg" group-title="SPORT PENANG",UK: Sky Sports Main Event
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7115
+#EXTINF:-1 tvg-id="" tvg-name="UK: Sky Sports Mix" tvg-logo="https://i.postimg.cc/bJxFsjPM/IMG-20210105-104056.jpg" group-title="SPORT PENANG",UK: Sky Sports Mix
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7116
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="http://tvmalaysia.cc:80/images/00df33989b0bbd6c33616c9c6e22d63b.png" group-title="SPORT PENANG",MUTV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7236
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV" tvg-logo="http://tvmalaysia.cc:80/images/12d36e8d63d3c1800885615edc4b961b.png" group-title="SPORT PENANG",LFC TV
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7237
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="" group-title="SPORT PENANG",UFC
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7259
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Early Prelims" tvg-logo="" group-title="SPORT PENANG",UFC PPV Early Prelims
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7260
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Prelims" tvg-logo="" group-title="SPORT PENANG",UFC PPV Prelims
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7261
+#EXTINF:-1 tvg-id="" tvg-name="UFC PPV Main Card" tvg-logo="" group-title="SPORT PENANG",UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7262
+#EXTINF:-1 tvg-id="" tvg-name="PPV Boxing" tvg-logo="" group-title="SPORT PENANG",PPV Boxing
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7263
+#EXTINF:-1 tvg-id="" tvg-name="LowBW UFC PPV Main Card" tvg-logo="" group-title="SPORT PENANG",LowBW UFC PPV Main Card
+http://iptv.tvmalaysia.cc:80/penang174/penang174/7265
 
 
 
@@ -1008,7 +1209,14 @@ http://38.131.11.9:1080/play/a00c
 http://38.131.11.9:1080/play/a033
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",Fox 3
 http://38.131.11.9:1080/play/a034
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BT SPORT 1 HD UK
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BT SPORT 2 HD UK
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BT SPORT 3 HD UK
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BT SPORT ESPN HD UK
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BBC 2
 http://93.190.139.35:8278/streams/d/bbc2_antik/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORTS WAK",BBC 1
