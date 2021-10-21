@@ -2127,22 +2127,16 @@ http://1.245.74.5:1935/live/tv/playlist.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN Fox Movies HD
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6145/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN FX MOVIES HD
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6144/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN Movies HD2 ACTION
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6134/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN Movies HD3 DRAMA
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6135/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN Movies HD4 FAMILY
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6136/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg"group-title="BEIN MOVIES",beIN Series HD 1
-#EXTGRP:HD
 http://iv3ueltu.rostelekom.xyz/iptv/MZ47TTFQ25YSZY/6138/index.m3u
 
 
