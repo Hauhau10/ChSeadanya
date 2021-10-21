@@ -1103,7 +1103,26 @@ https://smart-tv.livedoomovies.com:4431/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg" group-title="SPORT THAI SMART 2", Sport TV 5
 https://smart-tv.livedoomovies.com:4431/02_SPORTTV_5_720p/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 1 
+http://str.smartip-tv.net:8888/BEIN_SPORT_8_HD/index.m3u8?token=test
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 2 
+http://str.smartip-tv.net:8888/BEIN_SPORT_9_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 3 
+http://str.smartip-tv.net:8888/BEIN_SPORT_3_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 4 
+http://str.smartip-tv.net:8888/BEIN_SPORT_4_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 5 
+http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 6 
+http://str.smartip-tv.net:8888/BEIN_SPORT_6_HD/index.m3u8?token=test
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg" group-title="BEINSPORT", Bein sport 7 
+http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
 
 #EXTINF:-1 group-title=SPORTS THAI" tvg-logo="https://sv1.picz.in.th/images/2021/09/04/CtjVp9.jpg",True Premier 1 
 https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
